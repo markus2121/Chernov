@@ -1,0 +1,14 @@
+C:\repos\Traffic_light\Traffic_light\Traffic_light\bin\Debug\netstandard2.0\Traffic_light.deps.json
+C:\repos\Traffic_light\Traffic_light\Traffic_light\bin\Debug\netstandard2.0\Traffic_light.dll
+C:\repos\Traffic_light\Traffic_light\Traffic_light\bin\Debug\netstandard2.0\ref\Traffic_light.dll
+C:\repos\Traffic_light\Traffic_light\Traffic_light\bin\Debug\netstandard2.0\Traffic_light.pdb
+C:\repos\Traffic_light\Traffic_light\Traffic_light\obj\Debug\netstandard2.0\Traffic_light.csprojAssemblyReference.cache
+C:\repos\Traffic_light\Traffic_light\Traffic_light\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\repos\Traffic_light\Traffic_light\Traffic_light\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\repos\Traffic_light\Traffic_light\Traffic_light\obj\Debug\netstandard2.0\Traffic_light.AssemblyInfoInputs.cache
+C:\repos\Traffic_light\Traffic_light\Traffic_light\obj\Debug\netstandard2.0\Traffic_light.AssemblyInfo.cs
+C:\repos\Traffic_light\Traffic_light\Traffic_light\obj\Debug\netstandard2.0\Traffic_light.csproj.CoreCompileInputs.cache
+C:\repos\Traffic_light\Traffic_light\Traffic_light\obj\Debug\netstandard2.0\XamlC.stamp
+C:\repos\Traffic_light\Traffic_light\Traffic_light\obj\Debug\netstandard2.0\Traffic_light.dll
+C:\repos\Traffic_light\Traffic_light\Traffic_light\obj\Debug\netstandard2.0\ref\Traffic_light.dll
+C:\repos\Traffic_light\Traffic_light\Traffic_light\obj\Debug\netstandard2.0\Traffic_light.pdb

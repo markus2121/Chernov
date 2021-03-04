@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+             BackgroundColor="#EAFFD0"
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Student.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#F38181" Padding="24" CornerRadius="0">
+
+        </Frame>
+
+        <Label BackgroundColor="#EAFFD0" x:Name="res" Text="Студентов: 0" FontSize="32" HorizontalTextAlignment="Center" VerticalTextAlignment="Start" FontAttributes="Italic"></Label>
+        <Button BackgroundColor="#FCE38A" Text="Добавить студента" FontSize="24" Clicked="Button_Clicked" VerticalOptions="Center" HorizontalOptions="Center"></Button>
+        <Button BackgroundColor="#FCE38A"  x:Name="Del" Text="Удалить студента" FontSize="24" Clicked="Del_Clicked" VerticalOptions="Center" HorizontalOptions="Center"></Button>
+    </StackLayout>
+
+</ContentPage>
